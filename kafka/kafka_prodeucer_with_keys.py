@@ -25,6 +25,7 @@ def delivery_report(err, msg):
         print('-' * 100)
 
 
+# Only for study purpose
 def calc_partiition(key):
     if key == 'msg_1':
         return 0
